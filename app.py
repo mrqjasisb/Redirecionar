@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 links = {
-    "video1": "https://youtube.com/shorts/O_mdiswa3-0"
+    "folder/SwJw1LzQRp_SlviJg8oBY0I7Ql8eAw": "https://urlto.me/2LF6w.gif"
 }
 
 HTML = """
